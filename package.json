@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
-    "start": "node kokobot.js"
+    "start": "kokobot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
