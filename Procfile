@@ -1,1 +1,1 @@
-worker: node kokobot.js
+worker: kokobot.js
